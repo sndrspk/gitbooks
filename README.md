@@ -1,4 +1,10 @@
-# My Awesome Book
+# Introductie
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Syllabus behorende bij de cursus Projectmanagement, Grafische en Digitale Media, Arteveldehogeschool.
+
+Academiejaar 2017-2018.
+
+Sander Spek
+
+[Sander.spek@arteveldehogeschool.be](mailto:Sander.spek@arteveldehogeschool.be)
 
