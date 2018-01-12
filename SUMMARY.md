@@ -1,8 +1,12 @@
 # Summary
 
-1. [Introduction](README.md)
-2. [1. Agile projectmanagement](/chapter1.md "Agile projectmanagement")  
-   1. [1.1 Watervalmetho](watervalmethode.md)de
+1. Introductie
+2. Agile projectmanagement
+3. Het scrum-proces
+4. De scrum-rollen
+5. Voor- en nadelen
+
+
 
 
 
