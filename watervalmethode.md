@@ -4,7 +4,7 @@ Klassiek projectmanagement binnen de softwarewereld gebeurde in wat vaak de ‘w
 
 ![](/assets/waterval.jpg)
 
-Je ziet hier een softwareproject dat bestaat uit vijf achtereenvolgend fasen: het opstellen van de ‘requirements’ van de verschillende stakeholders, het maken van een design voor het systeem, het ontwikkelen van de software, het testen van de software en ten slotte de implementatie van het systeem. De watervalmethode dicteert dat elk van deze fasen afgesloten moet zijn voordat je naar de volgende fase gaat. Vandaar dat we het een waterval noemen: je gaat steeds een stapje lager, terwijl je niet terug kan (want de vorige fase is afgesloten).
+Je ziet hier een softwareproject dat bestaat uit vijf achtereenvolgend fasen: het opstellen van de ‘requirements’ van de verschillende stakeholders, het maken van een design voor het systeem, het ontwikkelen van de software, het testen van de software en ten slotte de implementatie van het systeem. _De watervalmethode dicteert dat elk van deze fasen afgesloten moet zijn voordat je naar de volgende fase gaat._ Vandaar dat we het een waterval noemen: je gaat steeds een stapje lager, terwijl je niet terug kan (want de vorige fase is afgesloten).
 
 Het voordeel van deze methode is dat je zeer secuur te werk gaat. Alle stakeholders zijn het eens over de requirements voordat je naar het design gaat. Alle stakeholders zijn het eens over het design voordat je naar de ontwikkeling gaat. Etcetera.
 
