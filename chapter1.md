@@ -6,5 +6,3 @@ _Agile _ is een Engelse term en betekent ‘wendbaar. Om te begrijpen wat er bed
 
 
 
-
-
