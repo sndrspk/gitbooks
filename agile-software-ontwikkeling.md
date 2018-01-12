@@ -9,3 +9,5 @@ Omdat de klassieke manier van software-ontwikkeling, de watervalmethode, vaak to
 
 Zoals Winston Churchill al zei:
 “Plans are of little importance, but planning is essential.” Met andere woorden: het is belangrijk om met alle stakeholders regelmatig een plan op te stellen, maar het gaat meer om die activiteit dan om het eindresultaat. Het plan zelf kan waarschijnlijk over enkele weken of maanden weer in de prullenbak, maar door met z'n allen een plan te maken ontdek je wel veel andere zaken, zoals hoe mensen over zaken denken en welke taken en activiteiten voor moeilijkheden zouden kunnen gaan zorgen.
+
+Dit manifest werd zeer snel populair, maar het zijn een aantal principes, en geen praktische methode. Vandaar dat er vervolgens complete projectmanagementmethoden ontwikkeld werden die met deze principes rekening houden. Voorbeelden zijn _eXtreme Programming_ (XP) en _Rapid Application Development_ (RAD), maar verweg de bekendste is **scrum**.
