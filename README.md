@@ -1,4 +1,4 @@
-# Introductie
+# Introductie / colofon
 
 Syllabus behorende bij de cursus Projectmanagement, Grafische en Digitale Media, Arteveldehogeschool.
 

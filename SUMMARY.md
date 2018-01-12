@@ -2,7 +2,7 @@
 
 ## Introductie
 
-* [Introduction](/README.md)
+* [Introductie / colofon](/README.md)
 
 ## Agile projectmanagement
 
