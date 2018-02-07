@@ -14,6 +14,7 @@
 
 * [Het scrum-proces](scrum/het-scrum-proces.md)
   * [Product backlog](scrum/het-scrum-proces/grgr.md)
+  * [Sprint en sprint backlog](scrum/het-scrum-proces/sprint-en-sprint-backlog.md)
 * [De scrum-rollen](scrum/de-scrum-rollen.md)
 * Voor- en nadelen
 

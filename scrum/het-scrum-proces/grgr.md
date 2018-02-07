@@ -1,3 +1,7 @@
+![](/assets/scrum proces .png)
+
+# Product backlog
+
 Het proces begint bij de **product backlog**. Dit is een lijst van alle zaken die nog ontwikkeld moeten worden. Eigenlijk is het dus de todo-lijst van je ontwikkel-team: alle zaken die je nog moet doen.
 
 De zaken (features) die nog ontwikkeld moeten worden, worden genoteerd in de vorm van een **user story**. Dit is een zin in ik-perspectief in de vorm:
