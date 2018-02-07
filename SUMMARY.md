@@ -19,7 +19,7 @@
   * [Na de sprint](scrum/het-scrum-proces/na-de-sprint.md)
 * [De scrum-rollen](scrum/de-scrum-rollen.md)
   * [Product Owner](scrum/de-scrum-rollen/product-owner.md)
-  * Scrum Master
+  * [Scrum Master](scrum/de-scrum-rollen/scrum-master.md)
   * Team
   * [Opdrachtgever](scrum/de-scrum-rollen/opdrachtgever.md)
 * Voor- en nadelen
