@@ -20,7 +20,7 @@
 * [De scrum-rollen](scrum/de-scrum-rollen.md)
   * [Product Owner](scrum/de-scrum-rollen/product-owner.md)
   * [Scrum Master](scrum/de-scrum-rollen/scrum-master.md)
-  * Team
+  * [Team](scrum/de-scrum-rollen/team.md)
   * [Opdrachtgever](scrum/de-scrum-rollen/opdrachtgever.md)
 * Voor- en nadelen
 

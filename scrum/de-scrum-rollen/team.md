@@ -1,0 +1,5 @@
+# Team
+
+Het team zijn de developers die de taken uitvoeren. In het scrumproces helpen zij meebeslissen over hun eigen taken (tijdens de sprint planning) en ze zijn er zelf verantwoordelijk voor dat ze tegen het einde van de sprint hun taken af hebben.
+
+Tijdens de _show & tell_ tonen teamleden zelf aan de opdrachtgever hoe de nieuwe functionaliteit werkt. In de _retrospective_ reflecten zij over hun eigen prestaties en die van anderen.
