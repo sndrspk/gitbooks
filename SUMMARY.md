@@ -22,6 +22,7 @@
   * [Scrum Master](scrum/de-scrum-rollen/scrum-master.md)
   * [Team](scrum/de-scrum-rollen/team.md)
   * [Opdrachtgever](scrum/de-scrum-rollen/opdrachtgever.md)
+  * [Management](scrum/de-scrum-rollen/management.md)
 * [Voor- en nadelen](scrum/voor-en-nadelen.md)
 
 ## Begrippenlijst
