@@ -2,7 +2,7 @@
 
 Klassiek projectmanagement binnen de softwarewereld gebeurde in wat vaak de ‘watervalmethode’ wordt genoemd. Hierbij gaat men ervan uit dat een project is in te delen in een aantal strikt gescheiden fasen, die op elkaar volgen \(en elkaar dus niet overlappen\). Het idee bestaat eruit dat je pas naar een volgende fase gaat als de vorige fase afgesloten is; dat wil zeggen dat alle belangrijke stakeholders de resultaten van die fase goedkeuren. Een simpel voorbeeld vind je hieronder:
 
-![](/assets/waterval.jpg)![](/assets/waterval.jpg)![](/assets/waterval.jpg)![](/assets/waterfall.jpg)![](/assets/waterfall.jpg)
+![](/assets/waterval.jpg)
 
 Je ziet hier een softwareproject dat bestaat uit vijf achtereenvolgend fasen: het opstellen van de ‘requirements’ van de verschillende stakeholders, het maken van een design voor het systeem, het ontwikkelen van de software, het testen van de software en ten slotte de implementatie van het systeem. _De watervalmethode dicteert dat elk van deze fasen afgesloten moet zijn voordat je naar de volgende fase gaat._ Vandaar dat we het een waterval noemen: je gaat steeds een stapje lager, terwijl je niet terug kan \(want de vorige fase is afgesloten\).
 

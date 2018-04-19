@@ -2,11 +2,13 @@
 
 # Na de sprint
 
+Iedere sprint eindigt met een _shippable product_. Dit betekent dat er na iedere sprint een geteste nieuwe release van het product is. In het begin zal dit vrij basic zijn, maar naarmate het project vordert wordt dit een steeds uitgebreider product.
+
 Als de sprint afgelopen is, vinden er twee meetings plaats: een show & tell, en een retrospective.
 
 ## Show & Tell
 
-Tijdens de **show & tell** laat het team aan de opdrachtgever zien wat ze allemaal gedaan hebben de afgelopen sprint. Het is de bedoeling dat een developer die iets gemaakt heeft, dit *zelf* aan de opdrachtgever toont. Niet door middel van een Powerpoint, maar door de software te tonen (bijvoorbeeld via een beamer) en te tonen hoe de gebruiker uit de user story te werk zou gaan om zijn of haar doel te bereiken. De opdrachtgever ziet dan meteen hoe het werkt, en kan opmerkingen geven, of misschien wel nieuwe features bedenken.
+Tijdens de **show & tell** laat het team aan de opdrachtgever zien wat ze allemaal gedaan hebben de afgelopen sprint. Het is de bedoeling dat een developer die iets gemaakt heeft, dit _zelf_ aan de opdrachtgever toont. Niet door middel van een Powerpoint, maar door de software te tonen \(bijvoorbeeld via een beamer\) en te tonen hoe de gebruiker uit de user story te werk zou gaan om zijn of haar doel te bereiken. De opdrachtgever ziet dan meteen hoe het werkt, en kan opmerkingen geven, of misschien wel nieuwe features bedenken.
 
 ## Retrospective
 
@@ -15,3 +17,4 @@ De **retrospective** is een reflectiemoment met het hele team. De bedoeling is d
 ## Daarna
 
 Als de sprint afgesloten is, gaat het team meestal verder met de planning voor de volgende sprint. Daarom dat de retrospective van de afgelopen sprint vaak gecombineerd wordt met de sprint planning van de komende sprint.
+
